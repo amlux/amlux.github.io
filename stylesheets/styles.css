@@ -99,7 +99,8 @@ header {
   width:270px;
   float:left;
   position:fixed;
-  background: lightgrey;
+  padding: 10px;
+  background: #E2DFE2;
 }
 
 header ul {
