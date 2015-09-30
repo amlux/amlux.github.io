@@ -101,6 +101,8 @@ header {
   position:fixed;
   padding: 10px;
   background: #E2DFE2;
+  border: 1px solid #E2DFE2;
+  border-radius: 10px;
 }
 
 header ul {
